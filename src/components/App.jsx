@@ -5,9 +5,7 @@ function App() {
   return (
     <>
       <h1>Primera Practica React JS</h1>
-      <article>
-        
-      </article>
+      <button className="btn btn-primary">hola</button>
     </>
   )
 }
